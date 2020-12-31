@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+#file{
+-webkit-box-shadow: 0px 0px 10px 5px rgba(151, 151, 151 .5);
+-moz-box-shadow: 0px 0px 10px 5px rgba(151, 151, 151, .5);
+box-shadow: 0px 0px 10px 5px rgba(151, 151, 151, .5); 
+width:100px;
+-webkit-transition: all .2s;
+background:url(../images/bg.jpg);
+line-height:30px;
+text-align:center;
+font-weight:bold;
+color:#333;
+border-radius:5px;
+
+1px 1px 5px
+rgba(0,0,0,.3);
+cursor:pointer;
+}
+#file:hover{
+background-color:#333;
+color:#e3e3e3;
+}
+
+
+#btn_uploadpic{
+width:200px;
+-webkit-box-shadow: 0px 0px 10px 5px rgba(151, 151, 151 .5);
+-moz-box-shadow: 0px 0px 10px 5px rgba(151, 151, 151, .5);
+box-shadow: 0px 0px 10px 5px rgba(151, 151, 151, .5); 
+-webkit-transition: all .2s;
+background:url(../images/bg.jpg);
+line-height:50px;
+text-align:center;
+font-weight:bold;
+color:#333;
+border-radius:5px;
+1px 1px 5px
+rgba(0,0,0,.3);
+cursor:pointer;
+}
+#btn_uploadpic:hover{
+background-color:#333;
+color:#e3e3e3;
+}

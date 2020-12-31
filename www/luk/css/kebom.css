@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+background-color:#CC6633;
+background-repeat:no-repeat;
+}
+.simple-form
+{
+text-align:center;
+margin:100px 400px;
+}
+#registration{
+width:50%;
+background-color:#00CC00;
+opacity:0.8;
+padding:50px 0px;
+}
+#button{
+width: 250px;
+padding:10px;
+border-radius: 5px;
+}
+#ph{
+width: 50px;
+padding:10px;
+border-radius: 5px;
+outline:0px;
+}
+#butt{
+width: 250px;
+padding:10px;
+border-radius: 5px;
+}
+#butt{
+color:#FFFFFF;
+width: 250px;
+padding:10px;
+border-radius: 5px;
+}

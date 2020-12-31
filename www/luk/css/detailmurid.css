@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+.form1{
+width:50%;
+background-color:#3333CC;
+opacity:0.2;
+padding:450px 0px;
+text-align:center;
+margin:100px 400px;
+}
+#file{
+width: 350px;
+padding:10px;
+border-radius: 5px;
+outline:0px;
+}
+#kelas{
+width: 200px;
+padding:10px;
+border-radius: 5px;
+outline:0px;
+}
+#tingkatan{
+width: 200px;
+padding:10px;
+border-radius: 5px;
+outline:0px;
+}
+#email{
+width: 200px;
+padding:10px;
+border-radius: 5px;
+outline:0px;
+}
+#update{
+-webkit-box-shadow: 0px 0px 15px 5px rgba(151, 151, 151 .75);
+-moz-box-shadow: 0px 0px 15px 5px rgba(151, 151, 151, .75);
+box-shadow: 0px 0px 15px 5px rgba(151, 151, 151, .75); 
+width: 150px;
+padding:10px;
+border-radius: 5px;
+outline:0px;
+background-image:url(../images/bg.jpg);
+border:2px solid #46b8da;
+cursor:pointer;
+
+}
+#update:hover{
+background-color:#333;
+color:#e3e3e3;
+}
+#border{
+border-radius: 5px;
+}
